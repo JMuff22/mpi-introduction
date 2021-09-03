@@ -142,7 +142,7 @@ lang:   en
 
 </div>
 
-<!--
+
 # Group work: how to parallelize a problem? {.section}
 
 # Smoothed Particle Hydrodynamic simulation
@@ -169,4 +169,4 @@ lang:   en
     - What kind of coordination between the parallel tasks is needed?
 - If you come up with several approaches, discuss their pros and cons
 
--->
+
