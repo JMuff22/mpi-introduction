@@ -11,5 +11,7 @@
 *.pptx
 *.pdf
 *.swp
+*.o
+*.mod
 *.txt
 *.tab
